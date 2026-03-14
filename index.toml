@@ -504,3 +504,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "0a27bc0ea8ab5798acbbd595f33f2d07b8d8392bbfd17065e834e89969af7c8d"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "bf9b207714547dc851aff20f194f28fd8d484f3420390d5815554ae593970665"
