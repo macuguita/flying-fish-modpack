@@ -1,0 +1,13 @@
+name = "Woodlands:The Core"
+filename = "Woodlands_Vanilla-Universal-1.21.1-v1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OjcLiatI/versions/CPOfAhL7/Woodlands_Vanilla-Universal-1.21.1-v1.2.2.jar"
+hash-format = "sha512"
+hash = "62c84e745317ee97ec9d1bc127e3133c180e8bbb4493c0e8658f4ad980189aad2020a47bc01d543aeff25a5b929505ae2fc556dc7c4ad4770f1ccec366fa6d6e"
+
+[update]
+[update.modrinth]
+mod-id = "OjcLiatI"
+version = "CPOfAhL7"

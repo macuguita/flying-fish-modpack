@@ -1,0 +1,13 @@
+name = "QoMC"
+filename = "qomc-1.0.0+1.21.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uwv2nlpZ/versions/HhUZeJ8M/qomc-1.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "0c4ed60bd0dd8bc9e24473c399489e7e77f4c4e2b3bccadf819b8b7ce1d8588e24fda0e38edff88122edbe625758b56fa69f45ecfb5f94490172da12dbd0d83c"
+
+[update]
+[update.modrinth]
+mod-id = "uwv2nlpZ"
+version = "HhUZeJ8M"

@@ -1,0 +1,13 @@
+name = "guita's Woodworks"
+filename = "gwoodworks-1.2.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTFyR6MX/versions/yWXKgmyp/gwoodworks-1.2.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "c0fbc235b146cbd42159cfb5279cd021cf9bbfebab7e4b8c1732b9db35faf766d0d66e04412aac620d16e84c67fec3cadab7046ab8159e68eed13e04bdfe87c7"
+
+[update]
+[update.modrinth]
+mod-id = "NTFyR6MX"
+version = "yWXKgmyp"

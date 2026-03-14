@@ -1,0 +1,13 @@
+name = "Obese Crops"
+filename = "obese_crops-1.0.4+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1AIR4y6L/versions/gTU5mtIo/obese_crops-1.0.4%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "51a438a31e8d13fde797fad4778299e09df976cb7d71a4a6e08be9454305532d0564342eb51c4311672b08cbd318afbd597c38d89b0665e9231119956d998e66"
+
+[update]
+[update.modrinth]
+mod-id = "1AIR4y6L"
+version = "gTU5mtIo"

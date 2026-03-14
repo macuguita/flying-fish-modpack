@@ -1,0 +1,13 @@
+name = "Alex's Caves (Unofficial Port)"
+filename = "alexscaves-2.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kSsLSjEt/versions/3jGIG4fF/alexscaves-2.0.9.jar"
+hash-format = "sha512"
+hash = "2b26c57e0a674ac6e1a695908e79924e5e9dffe118b837495a55ba410472abfff4b2442253ad88bd65563dab45da282fe6a9e357ad1c518e371d96462859b6f8"
+
+[update]
+[update.modrinth]
+mod-id = "kSsLSjEt"
+version = "3jGIG4fF"

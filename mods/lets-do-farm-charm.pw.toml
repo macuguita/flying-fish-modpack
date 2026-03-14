@@ -1,0 +1,13 @@
+name = "[Let's Do] Farm & Charm"
+filename = "letsdo-farm_and_charm-neoforge-1.1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJetCzWo/versions/muipCbfC/letsdo-farm_and_charm-neoforge-1.1.21.jar"
+hash-format = "sha512"
+hash = "ce66b6f685fe67ef260ea223492e1760d43be9f0ab7c723460af3fe7ed9a4e26f8c995a1f3b3ae00f0ab49e6c2f12e0eb052cddae3f47f95812e89014d002a43"
+
+[update]
+[update.modrinth]
+mod-id = "HJetCzWo"
+version = "muipCbfC"
