@@ -1,0 +1,4 @@
+version:3955
+operatorItemsTab:true
+darkMojangStudiosBackground:true
+joinedFirstServer:true
