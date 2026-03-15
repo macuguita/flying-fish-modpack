@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/obese-crops.pw.toml"
-hash = "1706e9ef3fe7a55ca40dff90ef5e77e4b755071d13915946c8f1b1216357c54c"
+hash = "e9e4af11ffcf88fed58d2d7be890219d1578ed09dc66ce95b2e3f4ed5d5b2b01"
 metafile = true
 
 [[files]]

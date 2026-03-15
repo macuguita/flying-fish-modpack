@@ -1,13 +1,13 @@
 name = "Obese Crops"
-filename = "obese_crops-1.0.4+1.21.1-neoforge.jar"
+filename = "obese_crops-1.0.5+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1AIR4y6L/versions/gTU5mtIo/obese_crops-1.0.4%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/1AIR4y6L/versions/Z9fbwjUD/obese_crops-1.0.5%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "51a438a31e8d13fde797fad4778299e09df976cb7d71a4a6e08be9454305532d0564342eb51c4311672b08cbd318afbd597c38d89b0665e9231119956d998e66"
+hash = "77219a966ce1eb3c26976bf014ff1d961fe236d51646e70e11afbe3383b2c8e793eaf4ae67a94db805f95c4b89a50e53a9cc0be5eae28b87df9b2316b474d1cd"
 
 [update]
 [update.modrinth]
 mod-id = "1AIR4y6L"
-version = "gTU5mtIo"
+version = "Z9fbwjUD"
