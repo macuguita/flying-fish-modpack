@@ -120,6 +120,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
@@ -410,11 +415,6 @@ hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
-file = "mods/protomanlys-weather.pw.toml"
-hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
-metafile = true
-
-[[files]]
 file = "mods/qomc.pw.toml"
 hash = "955eb3da0c71a19107b22090b2c23570fc3ecd94f176061464ada7ae925037e6"
 metafile = true
@@ -507,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/unusual-furniture.pw.toml"
 hash = "2441abf8ae001e8f2ddede167b559fd9ab1a402618ad95d22f4f9d1b2fdcef14"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "fc84548addfafabdc70c6d79a555f96bfb05016f1db9f8854ce0bfa95f61a561"
 metafile = true
 
 [[files]]
