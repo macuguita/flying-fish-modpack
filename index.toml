@@ -130,6 +130,11 @@ hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
 
 [[files]]
+file = "mods/creeperconfetti+.pw.toml"
+hash = "e74117882357e5665631dec329bce153c78ea1d428b3b5405483099289d88b89"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
@@ -280,6 +290,11 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "3e554dc66addcfd71cb63622490742566a640ff0ed45366814aa901945bb4ebc"
 metafile = true
@@ -360,8 +375,18 @@ hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "8b7fedb1d01a4f39ca343aa3e672ebb759ad807ef3885a68c36dc28da430500a"
+metafile = true
+
+[[files]]
 file = "mods/macu-lib.pw.toml"
 hash = "4949f567825f217736c29ec4e772b5d69142b6731ccc2a55ed015311742b5155"
+metafile = true
+
+[[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
 metafile = true
 
 [[files]]
@@ -417,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
@@ -537,6 +567,16 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "ef80891ed72e87e1fd2fda3bcee9e8a50e5c4cf836283ae8ef4c81e7fd213fd0"
 metafile = true
 
 [[files]]
