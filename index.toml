@@ -25,8 +25,8 @@ file = "config/yosbr/options.txt"
 hash = "143163d7ec1ced4fd08c4b419fdedf1e8bab965adb157093896b10ef9ddcf598"
 
 [[files]]
-file = "mods/alexs-caves-(unofficial-port).pw.toml"
-hash = "856ae1ff2fe91292c2fd33127cc0818ac5aee71dc68e791a2dc4f9386c4ede1a"
+file = "mods/alex-s-caves.pw.toml"
+hash = "c0c57729d3a45301ff05bad9939153085fcfe5c6ab19eed2712f562bf1569dc5"
 metafile = true
 
 [[files]]

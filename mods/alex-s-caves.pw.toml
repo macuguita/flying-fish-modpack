@@ -1,0 +1,7 @@
+name = "Alex's Caves (Unoficial Port)"
+filename = "alexscaves-2.0.11.jar"
+
+[download]
+url = "https://github.com/Elephant-Augments/AlexsCaves-1.21.1/releases/download/1.21.1-Update4/alexscaves-2.0.11.jar"
+hash-format = "sha256"
+hash = "15ac69776b32210f3cea40b41da35fed171c99f7434b2f57952777bba209eab8"
