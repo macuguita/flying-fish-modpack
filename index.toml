@@ -125,6 +125,11 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
+file = "mods/create-compatible-storage.pw.toml"
+hash = "65d241e255bc449e6a1faa590d09aafcea3f65a15206edd1e5cfbb665d3d0993"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
 metafile = true
@@ -231,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "78602170e23ae4a529aebb95a86c174700fe866171b1e2c2862ad0db83d3291b"
+hash = "72fffb9b0d2143b2a479d2ccb7c0a257c739d23b356255da552010de04f26abb"
 metafile = true
 
 [[files]]
@@ -261,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/guitas-woodworks.pw.toml"
-hash = "29149fcade4ce1e214bc97beb29dd55c29a912adcc76cb021c0362b1abffa03f"
+hash = "b2401cc3c2afe847574ce8b8fdb91c4ed3e4e0d7b20def79c2572408d5709d80"
 metafile = true
 
 [[files]]
@@ -376,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "8b7fedb1d01a4f39ca343aa3e672ebb759ad807ef3885a68c36dc28da430500a"
+hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
 
 [[files]]
@@ -421,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/obese-crops.pw.toml"
-hash = "e9e4af11ffcf88fed58d2d7be890219d1578ed09dc66ce95b2e3f4ed5d5b2b01"
+hash = "664ea8eadfac78cc5c53a0a806490f9b568f088d47e898a49f592b788064424d"
 metafile = true
 
 [[files]]
@@ -456,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "cb283e3af7906186ebc0b35e77bdef7b0b2bb773a18cc9c5975097c8d45eeb18"
+hash = "6f5da9dc7dcdaae1e267c5dc09d0aabe7056b3da95b7ec1e8ee15bf4445cf24c"
 metafile = true
 
 [[files]]
@@ -515,6 +520,16 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "ab1e45b4d8fb15347ab61e252ed8d23d4c7bfd344aee959ee3f91d4f36ac0ab8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "d9803b1b846f89595216a13cadf7ee7135f5fc1b6dc44a78ff6262b6151b4de2"
+metafile = true
+
+[[files]]
 file = "mods/starcatcher.pw.toml"
 hash = "d73ca5f2f0cc172540e9d8758a0807c09ff48692eab5319c69386a3e96478144"
 metafile = true
@@ -531,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/stone-zone.pw.toml"
-hash = "091bd6127b49fe14a210f00c6f4d262c1c2a82c60c7027e2f1a76fb7d32f3247"
+hash = "1f90e4050e7732c38ba2bb79f203ea2e15e70702f59026a45657a5f503bb2c0b"
 metafile = true
 
 [[files]]
@@ -547,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "63aea16cbf3e00874a05889f1553f3ef4640b04d10c370bba78eb2377f4fbf07"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "952d230caf1d3af68206c802bd1730540320e8d7f3b8ce3af440c3d45b710c3c"
 metafile = true
 
 [[files]]

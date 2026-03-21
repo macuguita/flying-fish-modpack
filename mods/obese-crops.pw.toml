@@ -1,13 +1,7 @@
 name = "Obese Crops"
-filename = "obese_crops-1.0.5+1.21.1-neoforge.jar"
-side = "both"
+filename = "obese_crops-neoforge-1.0.6-SNAPSHOT+1.21.1.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/1AIR4y6L/versions/Z9fbwjUD/obese_crops-1.0.5%2B1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "77219a966ce1eb3c26976bf014ff1d961fe236d51646e70e11afbe3383b2c8e793eaf4ae67a94db805f95c4b89a50e53a9cc0be5eae28b87df9b2316b474d1cd"
-
-[update]
-[update.modrinth]
-mod-id = "1AIR4y6L"
-version = "Z9fbwjUD"
+url = "https://maven.macuguita.com/releases/com/macuguita/obese_crops-neoforge/1.0.6-SNAPSHOT+1.21.1/obese_crops-neoforge-1.0.6-SNAPSHOT+1.21.1.jar"
+hash-format = "sha256"
+hash = "05c7cbaf3c70edb36c17d511586c090871649439d7832798a8bef983ec5bd9da"
