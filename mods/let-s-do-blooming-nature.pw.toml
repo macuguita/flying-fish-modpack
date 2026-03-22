@@ -2,6 +2,6 @@ name = "[Let's Do] Blooming Nature"
 filename = "letsdo-bloomingnature-neoforge-1.1.9.jar"
 
 [download]
-url = "https://github.com/macuguita/BloomingNature/releases/download/update1/letsdo-bloomingnature-neoforge-1.1.9.jar"
+url = "https://github.com/macuguita/BloomingNature/releases/download/update2/letsdo-bloomingnature-neoforge-1.1.9.jar"
 hash-format = "sha256"
-hash = "776fedff42acd3358bc0df36d8172e6fef170c96fad206f848ee30d218589ed5"
+hash = "60f5b89433224136a352babb07d674ccb27f2e15e8030d13e2c533dfd18cf4b1"
