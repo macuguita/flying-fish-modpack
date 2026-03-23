@@ -1,0 +1,8 @@
+name = "Flying Fish Mod"
+side = "server"
+filename = "flying_fish_mod-1.0-SNAPSHOT.jar"
+
+[download]
+hash-format = "sha256"
+url = "https://github.com/macuguita/flying-fish-mod/releases/download/update1/flying_fish_mod-1.0-SNAPSHOT.jar"
+hash = "529217e8efe0df30ef58330831911e2c85e3b3747dc21c3f16b7b2c6c3e4fb7c"

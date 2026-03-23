@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy-server-utilities.pw.toml"
-hash = "fd90878b5890edc536a3774aa9444146c0cc85be2969b74ab9525b131cb74e53"
+hash = "9a546e88c7645dffdbf8a8ec0d16643bb7c8fa1f257dac1ca33efedab91c3528"
 metafile = true
 
 [[files]]
@@ -272,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/flashfreeze.pw.toml"
 hash = "9bcb9785fb644af88b173762ab9f1f4a98a3e7b1d5b9614b22d2bcb6fc47fb91"
+metafile = true
+
+[[files]]
+file = "mods/flying-fish-mod.pw.toml"
+hash = "a5353d7951bb88c1318f02a8cbf1406858f4547aeaa11da31f1eea1f2bd829ee"
 metafile = true
 
 [[files]]
