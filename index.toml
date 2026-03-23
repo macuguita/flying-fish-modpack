@@ -455,9 +455,8 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
-file = "mods/obese-crops.pw.toml"
-hash = "e9e4af11ffcf88fed58d2d7be890219d1578ed09dc66ce95b2e3f4ed5d5b2b01"
-metafile = true
+file = "mods/obese_crops-1.0.6-SNAPSHOT+1.21.1-neoforge.jar"
+hash = "a657b0524f8ace4a94f5f4462c4aea5ccdfd03ba29e4b5f833ad745e1134d17e"
 
 [[files]]
 file = "mods/octo-lib.pw.toml"
