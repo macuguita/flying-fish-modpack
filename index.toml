@@ -585,6 +585,11 @@ hash = "63aea16cbf3e00874a05889f1553f3ef4640b04d10c370bba78eb2377f4fbf07"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "952d230caf1d3af68206c802bd1730540320e8d7f3b8ce3af440c3d45b710c3c"
+metafile = true
+
+[[files]]
 file = "mods/unusual-furniture.pw.toml"
 hash = "2441abf8ae001e8f2ddede167b559fd9ab1a402618ad95d22f4f9d1b2fdcef14"
 metafile = true
