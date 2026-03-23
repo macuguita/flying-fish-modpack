@@ -4,5 +4,5 @@ filename = "flying_fish_mod-1.0-SNAPSHOT.jar"
 
 [download]
 hash-format = "sha256"
-url = "https://github.com/macuguita/flying-fish-mod/releases/download/update2/flying_fish_mod-1.0-SNAPSHOT.jar"
-hash = "93a6571eabd7f6ddcba03fc20164c240b0b82856aae0e2ee10667af8332853b3"
+url = "https://github.com/macuguita/flying-fish-mod/releases/download/update3/flying_fish_mod-1.0-SNAPSHOT.jar"
+hash = "c59a9938535f971c9f70ace5610332130be10fd9deed504011da754a450c8cca"

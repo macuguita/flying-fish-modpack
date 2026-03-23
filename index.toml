@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/flying-fish-mod.pw.toml"
-hash = "e473541227570309508be93b27fbbb1bb3b6fbf7ef5d12770e7d7b6ba664be73"
+hash = "75e7287bde1bdc2f97b098088db51618bde4d22fc44d0114358193ec97edbed7"
 metafile = true
 
 [[files]]
