@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "resources/datapack/required/flying-fish.zip"
-hash = "a7da6c99ea8a710e55a6b47b16374d6e221934f3481509bd94db4d4cbe2bce06"
+hash = "48cf6fb6c9edb44fdca071de16616b02a2f9a28a6b7dc50c2198ebb42660d915"
 
 [[files]]
 file = "servers.dat"
